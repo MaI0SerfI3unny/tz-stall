@@ -1,0 +1,27 @@
+[
+    {
+      "name": "-",
+      "sort_by": "id",
+      "type_sort_order": "asc"
+    },
+    {
+      "name": "Від дорогих до дешевих",
+      "type_sort_order": "desc",
+      "sort_by": "price"
+    },
+    {
+      "name": "Від дешевих до дорогих",
+      "type_sort_order": "asc",
+      "sort_by": "price"
+    },
+    {
+      "name": "Від старих до нових",
+      "type_sort_order": "desc",
+      "sort_by": "created_at"
+    },
+    {
+      "name": "Від нових до старих",
+      "type_sort_order": "asc",
+      "sort_by": "created_at"
+    }
+  ]

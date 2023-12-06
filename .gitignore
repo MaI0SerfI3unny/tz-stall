@@ -1,0 +1,13 @@
+#LARAVEL
+
+magazine-laravel-app/vendor/
+magazine-laravel-app/.env
+magazine-laravel-app/public/css/
+magazine-laravel-app/public/js/
+magazine-laravel-app/database/*.sqlite
+
+#VUE
+
+magazine_vue/node_modules
+magazine_vue/.vscode
+magazine_vue/package-lock.json
